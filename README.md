@@ -12,7 +12,7 @@ An interactive Excel dashboard that analyses **why employees leave** and **who i
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard](C:\Users\hp\OneDrive\Documents\HR-Attrition-Analysis-Dashboard\Dashboard.png)
+![HR Attrition Dashboard](Dashboard.jpeg)
 
 *The full interactive version (with slicers) is in [`data/HR_Attrition_Analysis_Dashboard.xlsx`](data/HR_Attrition_Analysis_Dashboard.xlsx). Download it and open it in Microsoft Excel.*
 
