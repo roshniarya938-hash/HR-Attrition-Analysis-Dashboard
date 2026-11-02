@@ -12,7 +12,7 @@ An interactive Excel dashboard that analyses **why employees leave** and **who i
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard](images/dashboard_preview.png)
+![HR Attrition Dashboard](C:\Users\hp\OneDrive\Documents\HR-Attrition-Analysis-Dashboard\Dashboard.png)
 
 *The full interactive version (with slicers) is in [`data/HR_Attrition_Analysis_Dashboard.xlsx`](data/HR_Attrition_Analysis_Dashboard.xlsx). Download it and open it in Microsoft Excel.*
 
@@ -178,10 +178,10 @@ HR-Attrition-Analysis-Dashboard/
 
 ## About Me
 
-**[Your Full Name]**, BBA graduate looking for **entry-level HR roles** (HR Executive / HR Generalist / Recruitment / HR Analytics).
+Roshni Arya, BBA graduate looking for **entry-level HR roles** (HR Executive / HR Generalist / Recruitment / HR Analytics).
 
-- LinkedIn: [your LinkedIn URL]
-- Email: [your email]
+- LinkedIn: https://www.linkedin.com/in/roshni-arya-8518922b7/
+- Email: roshniarya938@gmail.com
 - GitHub: [@roshniarya938-hash](https://github.com/roshniarya938-hash)
 
 ---
