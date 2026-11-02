@@ -1,0 +1,81 @@
+Employee_ID,Name,Age,Gender,Marital_Status,Education,Department,Job_Role,City,Joining_Date,Exit_Date,Years_at_Company,Monthly_Salary_INR,Last_Hike_Percent,Job_Satisfaction,Work_Life_Balance,Performance_Rating,Overtime,Trainings_Last_Year,Attrition,Exit_Reason,Attriton_Flag,Age_Group,Salary_Band,Satisfaction_Level
+EMP1001,Sanjay Chauhan,21,Male,Married,Master's,IT,System Administrator,Mumbai,2026-04-02,2026-05-27,0.2,65000,8,4,2,3,Yes,1,Yes,Poor Work-Life Balance,1,Under25,High,High
+EMP1002,Sneha Negi,49,Female,Single,Bachelor's,Finance,Finance Manager,Gurugram,2015-06-17,,11.3,112000,5,3,3,5,No,3,No,,0,45-54,High,Medium
+EMP1003,Tarun Mehta,35,Male,Married,Bachelor's,Human Resources,HR Manager,Noida,2021-10-02,2024-04-24,2.6,75000,18,4,4,4,Yes,6,Yes,Poor Work-Life Balance,1,35-44,High,High
+EMP1004,Priya Thakur,24,Female,Married,MBA,IT,Data Analyst,Rudrapur,2026-04-02,,0.5,67500,6,1,3,3,No,2,No,,0,Under25,High,Low
+EMP1005,Sachin Kumar,29,Male,Divorced,Bachelor's,Research & Development,Lab Technician,Noida,2021-06-15,,5.3,49000,2,4,1,2,No,5,No,,0,25-34,Medium,High
+EMP1006,Preeti Bhatt,33,Female,Married,Bachelor's,IT,Software Engineer,Hyderabad,2021-10-02,,5.0,80500,18,3,3,3,No,0,No,,0,25-34,High,Medium
+EMP1007,Mohit Iyer,33,Male,Divorced,Bachelor's,Sales,Business Development Executive,Mumbai,2016-10-03,2021-06-12,4.7,47500,6,4,1,4,Yes,1,Yes,Poor Work-Life Balance,1,25-34,Medium,High
+EMP1008,Amit Singh,38,Male,Married,Master's,IT,Data Analyst,Mumbai,2015-06-17,2021-09-20,6.3,96500,3,1,3,2,No,1,Yes,Lack of Career Growth,1,35-44,High,Low
+EMP1009,Manish Chauhan,33,Male,Divorced,Bachelor's,IT,System Administrator,Mumbai,2015-10-04,,11.0,72000,5,4,4,4,No,3,No,,0,25-34,High,High
+EMP1010,Sanjay Mishra,51,Male,Married,Diploma,Research & Development,Lab Technician,Delhi,2014-11-10,,11.9,95000,15,2,3,4,No,1,No,,0,45-54,High,Low
+EMP1011,Kunal Kumar,42,Male,Married,Master's,Sales,Business Development Executive,Delhi,2018-12-15,,7.8,62500,12,4,1,5,Yes,4,No,,0,35-44,High,High
+EMP1012,Pankaj Kapoor,36,Male,Single,Master's,Operations,Operations Manager,Gurugram,2023-12-15,2025-01-03,1.1,91000,8,3,2,4,No,2,Yes,Poor Work-Life Balance,1,35-44,High,Medium
+EMP1013,Yash Joshi,28,Male,Married,Bachelor's,IT,Software Engineer,Gurugram,2025-08-26,,1.1,64500,18,4,3,5,No,5,No,,0,25-34,High,High
+EMP1014,Manish Singh,32,Male,Single,MBA,Research & Development,Product Analyst,Delhi,2024-10-01,2025-07-25,0.8,56000,18,2,2,5,No,2,Yes,Conflict with Manager,1,25-34,Medium,Low
+EMP1015,Nitin Patel,28,Male,Married,MBA,IT,System Administrator,Delhi,2026-01-19,2026-05-01,0.3,70500,3,4,3,2,Yes,4,Yes,Poor Work-Life Balance,1,25-34,High,High
+EMP1016,Swati Verma,28,Female,Married,MBA,Finance,Accountant,Delhi,2024-10-01,,2.0,62000,6,3,4,4,No,6,No,,0,25-34,High,Medium
+EMP1017,Kunal Rawat,31,Male,Married,Bachelor's,Human Resources,HR Executive,Gurugram,2021-10-02,,5.0,43000,0,3,2,3,No,3,No,,0,25-34,Medium,Medium
+EMP1018,Swati Saxena,46,Female,Divorced,Master's,IT,System Administrator,Hyderabad,2025-12-13,2026-03-18,0.3,116000,0,4,2,5,No,4,Yes,Poor Work-Life Balance,1,45-54,High,High
+EMP1019,Megha Reddy,45,Female,Married,Bachelor's,Operations,Operations Executive,Gurugram,2012-11-10,,13.9,64000,10,3,3,4,No,0,No,,0,45-54,High,Medium
+EMP1020,Preeti Bisht,44,Female,Married,Master's,Sales,Sales Manager,Delhi,2018-04-04,,8.5,91000,5,2,3,4,No,4,No,,0,35-44,High,Low
+EMP1021,Meera Joshi,23,Female,Married,Master's,Operations,Supply Chain Analyst,Bengaluru,2026-05-08,2026-06-27,0.1,38000,3,3,4,3,No,4,Yes,Relocation,1,Under25,Low,Medium
+EMP1022,Karan Patel,37,Male,Married,Diploma,IT,Software Engineer,Delhi,2017-06-16,,9.3,90500,12,3,4,4,No,3,No,,0,35-44,High,Medium
+EMP1023,Pankaj Rawat,42,Male,Divorced,Master's,Human Resources,HR Executive,Rudrapur,2013-12-16,,12.8,65000,20,3,4,5,No,6,No,,0,35-44,High,Medium
+EMP1024,Tanvi Chauhan,50,Female,Single,MBA,Finance,Finance Manager,Pune,2015-05-11,,11.4,124000,6,4,2,3,No,3,No,,0,45-54,High,High
+EMP1025,Nisha Kumar,35,Female,Single,Bachelor's,Human Resources,HR Manager,Mumbai,2025-08-26,,1.1,75000,12,3,3,3,No,6,No,,0,35-44,High,Medium
+EMP1026,Priya Yadav,30,Female,Married,Bachelor's,Human Resources,HR Manager,Mumbai,2022-12-14,,3.8,58000,15,4,4,3,No,3,No,,0,25-34,Medium,High
+EMP1027,Ankit Patel,42,Male,Married,MBA,IT,System Administrator,Mumbai,2025-02-24,,1.6,113500,10,3,4,3,Yes,3,No,,0,35-44,High,Medium
+EMP1028,Komal Negi,31,Female,Married,MBA,IT,Data Analyst,Noida,2025-12-13,2026-04-07,0.3,95000,0,4,2,5,Yes,1,Yes,Poor Work-Life Balance,1,25-34,High,High
+EMP1029,Rahul Nair,28,Male,Single,Bachelor's,Research & Development,Product Analyst,Mumbai,2025-10-01,,1.0,59500,8,3,3,4,Yes,4,No,,0,25-34,Medium,Medium
+EMP1030,Payal Joshi,23,Female,Divorced,Bachelor's,Finance,Finance Manager,Gurugram,2026-04-02,2026-07-21,0.3,44000,0,4,3,5,Yes,4,Yes,Poor Work-Life Balance,1,Under25,Medium,High
+EMP1031,Priya Agarwal,34,Female,Divorced,Doctorate,Research & Development,Product Analyst,Bengaluru,2022-08-27,,4.1,75500,18,3,4,4,Yes,3,No,,0,25-34,High,Medium
+EMP1032,Shruti Gupta,29,Female,Married,Bachelor's,Sales,Sales Manager,Bengaluru,2023-02-25,,3.6,60000,15,3,2,3,No,2,No,,0,25-34,Medium,Medium
+EMP1033,Harsh Joshi,43,Male,Divorced,Master's,Finance,Accountant,Hyderabad,2019-02-26,,7.6,90000,8,4,1,4,Yes,2,No,,0,35-44,High,High
+EMP1034,Sakshi Iyer,39,Female,Divorced,Bachelor's,Sales,Business Development Executive,Gurugram,2022-12-14,2023-06-12,0.5,52500,5,1,2,4,Yes,1,Yes,Conflict with Manager,1,35-44,Medium,Low
+EMP1035,Deepak Rawat,28,Male,Married,MBA,Sales,Sales Executive,Dehradun,2026-02-24,2026-09-12,0.5,38000,3,2,4,4,No,4,Yes,Conflict with Manager,1,25-34,Low,Low
+EMP1036,Kavita Verma,38,Female,Married,Bachelor's,Research & Development,Lab Technician,Rudrapur,2020-06-15,2022-01-31,1.6,86000,20,1,3,3,Yes,0,Yes,Lack of Career Growth,1,35-44,High,Low
+EMP1037,Aditi Chauhan,29,Female,Married,Bachelor's,Human Resources,Recruiter,Noida,2023-11-08,,2.9,35500,3,1,3,3,No,1,No,,0,25-34,Low,Low
+EMP1038,Pankaj Chauhan,43,Male,Married,MBA,Research & Development,Lab Technician,Rudrapur,2022-02-26,2025-02-06,2.9,83000,8,2,4,3,Yes,5,Yes,Job Dissatisfaction,1,35-44,High,Low
+EMP1039,Tarun Patel,45,Male,Divorced,Bachelor's,Human Resources,HR Executive,Delhi,2014-05-11,,12.4,72500,12,4,3,3,No,4,No,,0,45-54,High,High
+EMP1040,Sakshi Kumar,24,Female,Married,Master's,Sales,Sales Executive,Dehradun,2025-04-02,,1.5,37500,8,4,3,4,Yes,0,No,,0,Under25,Low,High
+EMP1041,Kavita Khan,21,Female,Divorced,Doctorate,Sales,Sales Manager,Gurugram,2026-05-08,2026-08-30,0.3,47000,12,1,2,3,No,0,Yes,Conflict with Manager,1,Under25,Medium,Low
+EMP1042,Preeti Sharma,38,Female,Married,Master's,Finance,Finance Manager,Dehradun,2023-12-15,,2.8,92500,6,2,3,4,No,4,No,,0,35-44,High,Low
+EMP1043,Pooja Sharma,43,Female,Married,Bachelor's,Operations,Operations Executive,Bengaluru,2018-04-04,2023-04-01,5.0,72500,3,1,4,3,No,3,Yes,Conflict with Manager,1,35-44,High,Low
+EMP1044,Simran Nair,31,Female,Married,Bachelor's,Sales,Business Development Executive,Bengaluru,2019-05-10,,7.4,45500,12,3,4,3,No,6,No,,0,25-34,Medium,Medium
+EMP1045,Radhika Khan,42,Female,Married,Bachelor's,IT,System Administrator,Mumbai,2018-04-04,,8.5,97500,6,3,3,3,No,3,No,,0,35-44,High,Medium
+EMP1046,Nitin Thakur,32,Male,Divorced,Master's,Human Resources,HR Manager,Dehradun,2021-02-26,2021-08-24,0.5,78000,3,3,2,2,No,6,Yes,Poor Work-Life Balance,1,25-34,High,Medium
+EMP1047,Kunal Patel,23,Male,Divorced,Bachelor's,Finance,Financial Analyst,Delhi,2026-04-02,,0.5,40000,12,3,4,5,No,5,No,,0,Under25,Medium,Medium
+EMP1048,Arjun Saxena,39,Male,Married,MBA,IT,Data Analyst,Bengaluru,2020-01-21,,6.7,116500,8,1,3,3,No,0,No,,0,35-44,High,Low
+EMP1049,Swati Agarwal,39,Female,Married,Master's,Sales,Sales Executive,Delhi,2017-06-16,,9.3,59500,6,2,3,4,No,5,No,,0,35-44,Medium,Low
+EMP1050,Meera Kapoor,40,Female,Divorced,Master's,IT,Software Engineer,Bengaluru,2011-12-17,2018-03-13,6.2,119500,8,2,4,3,No,3,Yes,Conflict with Manager,1,35-44,High,Low
+EMP1051,Priya Kapoor,32,Female,Married,MBA,Sales,Business Development Executive,Noida,2019-02-26,,7.6,61500,10,4,4,3,No,5,No,,0,25-34,High,High
+EMP1052,Tarun Saxena,33,Male,Married,Diploma,IT,Data Analyst,Bengaluru,2018-07-23,2023-10-04,5.2,87000,5,1,2,3,No,2,Yes,Better Salary Elsewhere,1,25-34,High,Low
+EMP1053,Meera Thakur,42,Female,Divorced,Master's,Operations,Operations Executive,Dehradun,2023-01-20,2023-09-29,0.7,84000,18,3,3,4,No,0,Yes,Poor Work-Life Balance,1,35-44,High,Medium
+EMP1054,Jyoti Thakur,22,Female,Married,Master's,Research & Development,Product Analyst,Dehradun,2026-04-02,2026-06-22,0.2,57500,18,1,2,5,Yes,4,Yes,Job Dissatisfaction,1,Under25,Medium,Low
+EMP1055,Ayesha Agarwal,34,Female,Married,Diploma,Operations,Supply Chain Analyst,Gurugram,2016-01-22,,10.7,50500,18,1,3,4,No,4,No,,0,25-34,Medium,Low
+EMP1056,Megha Agarwal,34,Female,Married,MBA,Operations,Supply Chain Analyst,Pune,2023-11-08,2025-03-15,1.4,68000,10,3,2,5,No,5,Yes,Poor Work-Life Balance,1,25-34,High,Medium
+EMP1057,Ankit Gupta,27,Male,Married,Master's,Research & Development,Research Scientist,Bengaluru,2025-04-02,2026-05-03,1.1,68000,6,1,3,4,Yes,1,Yes,Job Dissatisfaction,1,25-34,High,Low
+EMP1058,Rahul Iyer,23,Male,Married,Bachelor's,Research & Development,Research Scientist,Rudrapur,2026-05-08,2026-09-08,0.3,51000,5,1,4,3,Yes,0,Yes,Job Dissatisfaction,1,Under25,Medium,Low
+EMP1059,Kunal Gupta,21,Male,Divorced,Master's,IT,Software Engineer,Mumbai,2026-04-02,,0.5,59500,15,1,4,3,No,0,No,,0,Under25,Medium,Low
+EMP1060,Varun Malhotra,35,Male,Married,MBA,Research & Development,Research Scientist,Mumbai,2024-06-14,,2.3,76000,12,1,3,4,No,4,No,,0,35-44,High,Low
+EMP1061,Vivek Singh,39,Male,Married,MBA,IT,System Administrator,Noida,2013-05-11,,13.4,106500,10,3,4,4,No,2,No,,0,35-44,High,Medium
+EMP1062,Anjali Gupta,23,Female,Married,MBA,Sales,Sales Executive,Mumbai,2026-04-02,,0.5,32500,10,4,3,4,No,3,No,,0,Under25,Low,High
+EMP1063,Deepak Bhatt,31,Male,Single,Master's,Operations,Operations Executive,Bengaluru,2025-10-01,,1.0,45500,12,4,2,4,No,6,No,,0,25-34,Medium,High
+EMP1064,Sanjay Negi,36,Male,Married,MBA,Finance,Financial Analyst,Dehradun,2024-04-02,2026-07-27,2.3,70500,0,1,3,4,Yes,5,Yes,Conflict with Manager,1,35-44,High,Low
+EMP1065,Kavita Yadav,30,Female,Divorced,MBA,Finance,Finance Manager,Pune,2025-02-24,2026-05-30,1.3,91500,12,4,1,3,Yes,4,Yes,Poor Work-Life Balance,1,25-34,High,High
+EMP1066,Suresh Agarwal,39,Male,Married,Bachelor's,Research & Development,Product Analyst,Bengaluru,2017-12-15,,8.8,72500,3,1,3,1,No,6,No,,0,35-44,High,Low
+EMP1067,Simran Thakur,29,Female,Married,Master's,Research & Development,Research Scientist,Mumbai,2024-08-26,,2.1,58500,15,2,3,3,No,6,No,,0,25-34,Medium,Low
+EMP1068,Meera Singh,34,Female,Divorced,Bachelor's,Operations,Supply Chain Analyst,Mumbai,2019-10-03,,7.0,62000,6,4,4,4,Yes,4,No,,0,25-34,High,High
+EMP1069,Shruti Kumar,33,Female,Married,Master's,Operations,Operations Manager,Noida,2021-04-03,2025-11-22,4.6,59000,3,2,4,3,No,2,Yes,Job Dissatisfaction,1,25-34,Medium,Low
+EMP1070,Aditi Khan,29,Female,Married,MBA,Sales,Sales Manager,Delhi,2023-10-02,2024-08-21,0.9,57500,15,2,4,3,Yes,5,Yes,Lack of Career Growth,1,25-34,Medium,Low
+EMP1071,Preeti Gupta,29,Female,Married,Diploma,IT,Data Analyst,Dehradun,2019-11-09,,6.9,77500,0,1,3,4,No,6,No,,0,25-34,High,Low
+EMP1072,Rohan Chauhan,41,Male,Married,Bachelor's,Sales,Sales Manager,Hyderabad,2023-11-08,,2.9,79000,5,2,3,3,No,2,No,,0,35-44,High,Low
+EMP1073,Nitin Gupta,28,Male,Single,Bachelor's,Finance,Financial Analyst,Mumbai,2025-11-07,,0.9,54500,12,3,2,5,No,4,No,,0,25-34,Medium,Medium
+EMP1074,Sneha Kapoor,41,Female,Married,MBA,Sales,Business Development Executive,Noida,2016-07-23,2026-08-18,10.1,56500,10,3,1,5,Yes,1,Yes,Poor Work-Life Balance,1,35-44,Medium,Medium
+EMP1075,Deepak Singh,23,Male,Divorced,MBA,Sales,Business Development Executive,Pune,2025-11-07,2026-03-29,0.4,43000,20,3,3,3,Yes,5,Yes,Poor Work-Life Balance,1,Under25,Medium,Medium
+EMP1076,Megha Bisht,32,Female,Married,MBA,Research & Development,Lab Technician,Rudrapur,2023-08-27,,3.1,71500,20,4,3,3,No,3,No,,0,25-34,High,High
+EMP1077,Kavita Joshi,34,Female,Married,Bachelor's,Research & Development,Product Analyst,Gurugram,2021-07-21,,5.2,72500,5,1,4,3,No,3,No,,0,25-34,High,Low
+EMP1078,Ankit Yadav,28,Male,Married,MBA,Research & Development,Lab Technician,Noida,2024-04-02,2025-12-12,1.7,61500,3,2,1,3,Yes,6,Yes,Better Salary Elsewhere,1,25-34,High,Low
+EMP1079,Aditi Bhatt,36,Female,Divorced,Bachelor's,Sales,Sales Executive,Rudrapur,2020-07-21,2021-02-22,0.6,56500,2,3,4,2,Yes,5,Yes,Poor Work-Life Balance,1,35-44,Medium,Medium
+EMP1080,Tarun Reddy,33,Male,Single,Master's,Sales,Business Development Executive,Mumbai,2026-05-08,2026-08-02,0.2,51500,18,2,3,4,Yes,0,Yes,Job Dissatisfaction,1,25-34,Medium,Low
